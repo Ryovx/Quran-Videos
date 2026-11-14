@@ -1,16 +1,20 @@
-═══════════════════════════════════════════════════════════════════════
-        Ryovx Ownership for Humanity, Authorship for Licensor 1.0 International
-                      RVX OH-AL 1.0 INTERNATIONAL
-        Ownership for Humanity · Authorship for Licensor
-═══════════════════════════════════════════════════════════════════════
+╔═════════════════════════════════════════════════════════════════════╗
+║                                                                     ║
+║          RYOVX OWNERSHIP FOR HUMANITY, AUTHORSHIP FOR LICENSOR      ║
+║                       1.0 INTERNATIONAL                             ║
+║                                                                     ║
+║                      RVX OH-AL 1.0 International                    ║
+║                                                                     ║
+║          SPDX-License-Identifier: LicenseRef-RVX-OH-AL-1.0          ║
+║                                                                     ║
+║             ALL RIGHTS RESERVED FOR HUMANITY FOREVER                ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝
 
-SPDX-License-Identifier: LicenseRef-RVX-OH-AL-1.0
 
-ALL RIGHTS RESERVED FOR HUMANITY FOREVER
-
-───────────────────────────────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                               NOTICE
-───────────────────────────────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Ryovx wrote this License and offers it as-is, without warranty of any
 kind. Ryovx does not intervene in any legal matter, does not provide
@@ -18,47 +22,48 @@ legal advice, legal representation, or judicial assistance, and takes
 no side in any dispute. Ryovx is the author of this text and of
 nothing else. Any use of this License is at the sole risk of the user.
 
-───────────────────────────────────────────────────────────────────────
-                            DEFINITIONS
-───────────────────────────────────────────────────────────────────────
 
-"License"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                            DEFINITIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+▸ "License"
     This instrument, RVX OH-AL 1.0 International, in its entirety.
 
-"Work"
+▸ "Work"
     The content identified as licensed under this License at its
     original publication by the Licensor. The Work is the source from
     which all Versions descend.
 
-"Licensor"
+▸ "Licensor"
     The original author of the Work. Where a Chain of Attribution
     exists, the Licensor is the bottom entry of the chain. Where no
     chain exists, the Licensor is the person whose original
     publication the Work traces to, established by any lawful means.
 
-"Publisher"
+▸ "Publisher"
     Any person who publishes, distributes, or makes available a
     Version to any other person.
 
-"You"
+▸ "You"
     Any person who receives, accesses, or uses the Work or a Version.
 
-"Version"
+▸ "Version"
     Any copy of the Work, whether modified or not.
 
-"Authorship"
+▸ "Authorship"
     The act of creating the Work, as recognized by applicable law,
     and the identification of the person or persons who performed
     that act.
 
-"Publish"
+▸ "Publish"
     To distribute, make available, or communicate the Work or a
     Version to the public, in any medium.
 
-"Breach"
+▸ "Breach"
     Any act described in § 2.
 
-"Substantial Function"
+▸ "Substantial Function"
     Any function, behavior, presentation, output, purpose, meaning,
     identity, or informational integrity of a Version that, when
     observed by an ordinary person, is clearly distinguishable from
@@ -68,28 +73,31 @@ nothing else. Any use of this License is at the sole risk of the user.
     it does, what it says, what it shows, or who appears to have made
     it. Substantial Function includes, without limitation:
 
-    (a) any change to the core purpose, operation, or output of the
-        Work;
+        (a) any change to the core purpose, operation, or output of
+            the Work;
 
-    (b) any change to the visible, audible, or structural
-        presentation that alters the character, meaning, or message
-        of the Work;
+        (b) any change to the visible, audible, or structural
+            presentation that alters the character, meaning, or
+            message of the Work;
 
-    (c) any replacement of the person, voice, face, identity, style,
-        or signature that constitutes the Work's authorship;
+        (c) any replacement of the person, voice, face, identity,
+            style, or signature that constitutes the Work's
+            authorship;
 
-    (d) any addition, removal, or alteration of content that changes
-        the factual, informational, or narrative integrity of the
-        Work;
+        (d) any addition, removal, or alteration of content that
+            changes the factual, informational, or narrative
+            integrity of the Work;
 
-    (e) any introduction of code, data, or material that performs
-        unauthorized operations, alters ordinary system behavior,
-        exfiltrates data, causes damage, or misleads the user;
+        (e) any introduction of code, data, or material that
+            performs unauthorized operations, alters ordinary
+            system behavior, exfiltrates data, causes damage, or
+            misleads the user;
 
-    (f) any change that a reasonable person would describe as "a
-        different Work," and not "the same Work with changes."
+        (f) any change that a reasonable person would describe as
+            "a different Work," and not "the same Work with
+            changes."
 
-"Minor Function"
+▸ "Minor Function"
     Any function, behavior, presentation, output, or change that is
     not a Substantial Function. Minor Function includes, without
     limitation, compression, quality adjustment, refactoring,
@@ -97,33 +105,33 @@ nothing else. Any use of this License is at the sole risk of the user.
     change, addition of light background material, translation that
     preserves meaning, and bug fixes that restore intended behavior.
 
-"Substantial Modification"
+▸ "Substantial Modification"
     Any modification to the Work that introduces, alters, or
     replaces a Substantial Function.
 
-"Minor Modification"
+▸ "Minor Modification"
     Any modification that is not a Substantial Modification.
 
-"Chain of Attribution"
+▸ "Chain of Attribution"
     The record of names described in § 3, kept in the file
     CHAIN_OF_ATTRIBUTION.md, governed by the Chain of Attribution
     Standard published by Ryovx.
 
-"CHAIN_OF_ATTRIBUTION.md"
-    The file described in § 3.3, in which the Chain of Attribution is
-    kept.
+▸ "CHAIN_OF_ATTRIBUTION.md"
+    The file described in § 3.3, in which the Chain of Attribution
+    is kept.
 
-"Attribution Status"
+▸ "Attribution Status"
     The legal position described in § 3.6, held by a Publisher whose
     Version carries a continuous Chain of Attribution under this
     License.
 
-"Damage"
+▸ "Damage"
     Any harm, loss, injury, or liability, whether direct, indirect,
     incidental, consequential, or reputational, arising from a
     Version.
 
-"Warning"
+▸ "Warning"
     A written notice delivered to a party, specifying the alleged
     breach, the conduct constituting it, and a reasonable period to
     cure. A Warning is valid only if in writing, dated, and capable
@@ -131,24 +139,24 @@ nothing else. Any use of this License is at the sole risk of the user.
     known address of the party, or published in a location
     reasonably accessible to the party.
 
-"Terms and Conditions"
+▸ "Terms and Conditions"
     Any statement, agreement, or document, other than this License,
     that purports to govern the use, distribution, or modification
     of the Work or a Version.
 
-"Court of Competent Jurisdiction"
+▸ "Court of Competent Jurisdiction"
     Any court, tribunal, or arbitral body with authority to hear the
     matter under applicable law.
 
-"Public Authority"
+▸ "Public Authority"
     Any government body with authority over copyright, consumer
     protection, or the matter in question.
 
-"Public Domain"
+▸ "Public Domain"
     The status of a work that is free from all copyright and related
     rights in the applicable jurisdiction.
 
-"Entry into Force"
+▸ "Entry into Force"
     This License enters into force for a Work upon the first
     publication of the Work under this License, by the Licensor.
     Once in force, this License cannot be replaced by a different
@@ -157,14 +165,15 @@ nothing else. Any use of this License is at the sole risk of the user.
     under § 11. The Work remains under the RVX OH-AL family in
     perpetuity, until the Work enters the Public Domain under § 14.
 
-"Acceptance"
+▸ "Acceptance"
     A user accepts this License by using the Work. Where the law
     requires explicit acceptance, the user must indicate acceptance
     in a manner recognized by that law.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 1 · GRANT
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 The Licensor grants every person who receives the Work a perpetual,
 worldwide, royalty-free, irrevocable, non-exclusive permission to
@@ -179,9 +188,10 @@ This grant begins on the Entry into Force of this License for the
 Work, and continues in perpetuity, until the Work enters the Public
 Domain under § 14.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 2 · CONDITIONS
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This License prohibits only harmful conduct. The harmful conduct is
 set out in this Section, and nowhere else. Every other use,
@@ -191,10 +201,10 @@ condition.
 This License is breached, at the moment of the act, if, and only if,
 you:
 
-    (a) falsely claim authorship of the Work, meaning that you
-        claim to be the Licensor, or that you attribute the Work to
-        a person other than the Licensor. Claiming authorship of
-        your own modifications to a Version is not a breach of this
+    (a) falsely claim authorship of the Work, meaning that you claim
+        to be the Licensor, or that you attribute the Work to a
+        person other than the Licensor. Claiming authorship of your
+        own modifications to a Version is not a breach of this
         Section;
 
     (b) prevent others from using the Work, or impose on the Work
@@ -228,25 +238,32 @@ breach. Failure to keep a Chain of Attribution is not a breach.
 Modification of the Work is not a breach. Commercial use of the
 Work is not a breach.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 3 · CHAIN OF ATTRIBUTION
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Attribution under this License is not required. It is an honor.
 
-§ 3.1 · What Attribution Status Is
+
+───────────────────────────────────────────────────────────────────────
+ § 3.1 · What Attribution Status Is
+───────────────────────────────────────────────────────────────────────
 
 Attribution Status is a legal position held by a Publisher whose
 Version carries a continuous Chain of Attribution under this
 License, from the Licensor down to that Publisher, with no break in
 the chain as determined under § 3.5.
 
-Attribution Status confers a defense under § 2(a) and § 2(d), and
-an evidentiary privilege under § 7. It is not a right, not a
-permission, and not a license. Every person holds the permissions
-of § 1 whether or not Attribution Status exists.
+Attribution Status confers a defense under § 2(a) and § 2(d), and an
+evidentiary privilege under § 7. It is not a right, not a
+permission, and not a license. Every person holds the permissions of
+§ 1 whether or not Attribution Status exists.
 
-§ 3.2 · The Chain of Attribution Standard
+
+───────────────────────────────────────────────────────────────────────
+ § 3.2 · The Chain of Attribution Standard
+───────────────────────────────────────────────────────────────────────
 
 Ryovx publishes, separately and in support of this License, the
 Chain of Attribution Standard. The Standard has one purpose: to
@@ -268,7 +285,10 @@ The Chain of Attribution Standard consists of:
     (e) the effects of holding Attribution Status, as set out in
         § 3.6.
 
-§ 3.3 · The File and Its Format
+
+───────────────────────────────────────────────────────────────────────
+ § 3.3 · The File and Its Format
+───────────────────────────────────────────────────────────────────────
 
 The Chain of Attribution is kept in a file named
 CHAIN_OF_ATTRIBUTION.md, placed alongside the Work or in a location
@@ -277,7 +297,9 @@ that is reasonably accessible to any recipient of the Work.
 The file is written in Markdown. Each entry is one line, in the
 following form:
 
-    [Full Name] (a.k.a. [Aliases]), [Entity]
+    ┌─────────────────────────────────────────────────────────────┐
+    │  [Full Name] (a.k.a. [Aliases]), [Entity]                   │
+    └─────────────────────────────────────────────────────────────┘
 
 Where:
 
@@ -304,13 +326,19 @@ current Publisher. The bottom entry is the Licensor.
 The file may also carry a header line identifying the Work and the
 License, in the following optional form:
 
-    # Chain of Attribution — [Title of the Work]
-    License: RVX OH-AL 1.0 International (LicenseRef-RVX-OH-AL-1.0)
+    ┌─────────────────────────────────────────────────────────────┐
+    │  # Chain of Attribution — [Title of the Work]               │
+    │  License: RVX OH-AL 1.0 International                       │
+    │           (LicenseRef-RVX-OH-AL-1.0)                        │
+    └─────────────────────────────────────────────────────────────┘
 
 The header line is optional. Its omission does not affect the
 operation of the Chain of Attribution.
 
-§ 3.4 · Who May Create, Join, or Restore a Chain
+
+───────────────────────────────────────────────────────────────────────
+ § 3.4 · Who May Create, Join, or Restore a Chain
+───────────────────────────────────────────────────────────────────────
 
     (a) Creation. Any person who uses the Work may create a
         CHAIN_OF_ATTRIBUTION.md. Where no file exists, the person
@@ -345,7 +373,10 @@ operation of the Chain of Attribution.
         because the name was already attached to the Work by the
         act of publication, and the chain merely records what was.
 
-§ 3.5 · When the Chain Breaks
+
+───────────────────────────────────────────────────────────────────────
+ § 3.5 · When the Chain Breaks
+───────────────────────────────────────────────────────────────────────
 
 A Chain of Attribution exists only under this License. It is
 continuous where every Version in the lineage carries this License
@@ -392,7 +423,10 @@ The break of a chain is not a penalty. It is the nature of a
 record: a record of a lineage under this License cannot outlive
 that lineage.
 
-§ 3.6 · The Effect of Attribution Status
+
+───────────────────────────────────────────────────────────────────────
+ § 3.6 · The Effect of Attribution Status
+───────────────────────────────────────────────────────────────────────
 
 Attribution Status is a legal position that concerns attribution
 and representation. It does not shield any party from the
@@ -431,7 +465,10 @@ a record, there is no chain; and without a chain, the Status
 cannot be conferred. This License does not withhold the Status. It
 cannot confer what does not exist.
 
-§ 3.7 · The Honor of the Chain
+
+───────────────────────────────────────────────────────────────────────
+ § 3.7 · The Honor of the Chain
+───────────────────────────────────────────────────────────────────────
 
 This Section is written so that the reader may feel the honor of
 keeping the chain, and not the weight of a rule.
@@ -456,9 +493,10 @@ penalty withheld, but a good thing offered.
 This Section is a statement of the License's spirit. It does not
 add to, subtract from, or modify any other Section.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 4 · RE-LICENSING
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 You may re-license your own Version under any terms you choose,
 including more restrictive or proprietary terms.
@@ -497,9 +535,10 @@ It is advisable to add a Minor Modification, or a Substantial
 Modification, or not to re-license at all. It is morally
 recommended, but not required, to name the original Licensor.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 5 · MODIFICATIONS
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 A Version that contains only Minor Modifications remains under this
 License. The authorship of the Work remains with the Licensor.
@@ -518,9 +557,10 @@ their name to the CHAIN_OF_ATTRIBUTION.md, under § 3.4. Doing so
 creates Attribution Status for their Version, if the chain is
 continuous under § 3.5.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 6 · DAMAGE
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Any Damage arising from a Version falls on the Publisher of that
 Version. The Licensor bears no Damage arising from any Version
@@ -544,9 +584,10 @@ proceeding concerning Damage. It does not by itself relieve the
 Publisher of liability; it bears on the question of intent and
 fault.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 7 · PROOF BEFORE A COURT
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This Section governs the burden of proof in any proceeding under
 this License. It applies equally to every party who makes a claim.
@@ -586,9 +627,10 @@ applicable law requires otherwise.
 The License states that proof is required. It leaves the method to
 justice.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 8 · STANDING
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 A complaint or claim under this License may be brought by:
 
@@ -604,9 +646,10 @@ A complaint or claim under this License may be brought by:
         the Public Authority of the jurisdiction in which the
         breach occurred.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 9 · OPERATION, TOLERANCE, AND WARNINGS
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This License operates by its own terms. A breach exists at the
 moment of the act, as set out in § 2. But the legal effect of a
@@ -626,15 +669,15 @@ establishment, the breach has the effect set out in this Section.
               treated as held by that party alone, without
               Attribution Status;
 
-        (ii)  the tolerated party may continue to use the
-              Version during the period of tolerance;
+        (ii)  the tolerated party may continue to use the Version
+              during the period of tolerance;
 
         (iii) the original breach remains, and the Licensor's
               right to claim under § 9(c) is preserved;
 
         (iv)  the Work as originally published remains under this
-              License, and the authorship of the Work remains with
-              the Licensor;
+              License, and the authorship of the Work remains
+              with the Licensor;
 
         (v)   the tolerated party's position does not affect the
               License of the Work, nor the rights of any other
@@ -645,8 +688,8 @@ establishment, the breach has the effect set out in this Section.
         statute of limitations. Tolerance describes the effect of
         inaction, not the surrender of the right to act.
 
-    (d) End of Tolerance. Tolerance ends on the day a complaint or
-        claim is brought under § 8, or on the day a new breach
+    (d) End of Tolerance. Tolerance ends on the day a complaint
+        or claim is brought under § 8, or on the day a new breach
         occurs by the tolerated party.
 
     (e) Warnings. No penalty of any kind may be imposed on any
@@ -662,9 +705,10 @@ establishment, the breach has the effect set out in this Section.
         is established, and no Warning may be issued except on
         clear and convincing evidence of the conduct alleged.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 10 · COURT RULING AND BAN
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     (a) Establishment. A breach under § 2 is established only by a
         Court of Competent Jurisdiction or by admission of the
@@ -677,19 +721,19 @@ establishment, the breach has the effect set out in this Section.
         court's ruling.
 
     (c) Scope. The ban applies to all content of the Licensor that
-        is licensed under this License, whether published before or
-        after the ruling, and whether or not the content in
+        is licensed under this License, whether published before
+        or after the ruling, and whether or not the content in
         question was the subject of the breach.
 
     (d) Release from Ban. The banned party may use the Licensor's
         content under this License again only if:
 
-        (i)  the Licensor grants the banned party written
-             permission, executed and dated after the court's
-             ruling; or
+        (i)   the Licensor grants the banned party written
+              permission, executed and dated after the court's
+              ruling; or
 
-        (ii) the Licensor grants the banned party a full pardon,
-             executed and dated after the court's ruling.
+        (ii)  the Licensor grants the banned party a full pardon,
+              executed and dated after the court's ruling.
 
     (e) Prior Permission or Pardon. Any written permission or full
         pardon held by the banned party before the court's ruling
@@ -702,12 +746,13 @@ establishment, the breach has the effect set out in this Section.
         Licensor's content enters the Public Domain under § 14.
 
     (g) No Retroactive Effect. The ban does not apply to uses that
-        occurred before the court's ruling. It applies only to uses
-        that occur after.
+        occurred before the court's ruling. It applies only to
+        uses that occur after.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 11 · UPGRADES
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     (a) Definition. An Upgrade is a change of the License governing
         the Work to a later version of RVX OH-AL, published by
@@ -741,9 +786,10 @@ establishment, the breach has the effect set out in this Section.
         upgrade alongside the Work. The notice is recommended, not
         required.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 12 · CONFLICT WITH TERMS AND CONDITIONS
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     (a) Conflicting Terms. Where the Terms and Conditions of any
         content conflict, even slightly, with this License, the
@@ -768,9 +814,10 @@ establishment, the breach has the effect set out in this Section.
         this License in all cases, until it enters the Public
         Domain under § 14.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 13 · PATENTS AND TRADEMARKS
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This License grants no right in any patent or trademark.
 
@@ -790,9 +837,10 @@ This License grants no right in any patent or trademark.
         description of the origin of a Version, but may not use it
         as a trademark, service mark, or designation of source.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 14 · PUBLIC DOMAIN
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 When the Work enters the Public Domain, whether by expiry of
 copyright or by any other lawful means, and the Work is under this
@@ -825,9 +873,10 @@ This Section applies to the Work under this License. The License
 of the Work cannot be replaced before the Work enters the Public
 Domain, as stated in the definition of Entry into Force.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 15 · DISCLAIMER
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 THE WORK IS PROVIDED AS IS. NO WARRANTY OF ANY KIND IS GIVEN,
 EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF TITLE,
@@ -836,9 +885,10 @@ PURPOSE. IN NO EVENT SHALL THE LICENSOR OR RYOVX BE LIABLE FOR ANY
 CLAIM, DAMAGE, OR LIABILITY ARISING FROM THE WORK OR ANY USE OF THE
 WORK.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 16 · GOVERNING LAW AND DISPUTE RESOLUTION
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This License is governed by the law of the jurisdiction in which
 the Licensor was domiciled at the time the Work was first published
@@ -856,9 +906,10 @@ Nothing in this Section prevents any court of competent
 jurisdiction from applying this License, as a contract, under its
 own law, where the License is valid under that law.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 17 · SEVERABILITY, ENTIRE AGREEMENT, AND ACCEPTANCE
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     (a) Severability. If any provision of this License is held
         invalid, ineffective, or unenforceable, the remaining
@@ -877,13 +928,15 @@ own law, where the License is valid under that law.
         must indicate acceptance in a manner recognized by that
         law.
 
-═══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  § 18 · EXAMPLES
-═══════════════════════════════════════════════════════════════════════
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 The following examples illustrate the operation of this License.
 They are illustrative, and do not limit the definitions in it.
 This License applies to all works of authorship in any medium.
+
 
 ───────────────────────────────────────────────────────────────────────
  § 18.1 · VIDEO
@@ -921,6 +974,7 @@ subject, licensed under RVX OH-AL 1.0 International.
         synthesize their voice with new words. Substantial
         Modification.
 
+
 ───────────────────────────────────────────────────────────────────────
  § 18.2 · MUSIC
 ───────────────────────────────────────────────────────────────────────
@@ -947,6 +1001,7 @@ A three-minute song, licensed under RVX OH-AL 1.0 International.
     (f) You sample a short loop and use it in a new track of your
         own. The loop is a Minor Modification of the Work; the new
         track is yours to license, subject to § 4.
+
 
 ───────────────────────────────────────────────────────────────────────
  § 18.3 · SOFTWARE
@@ -977,6 +1032,7 @@ A software library, licensed under RVX OH-AL 1.0 International.
         name, with substantial additions. Substantial
         Modification.
 
+
 ───────────────────────────────────────────────────────────────────────
  § 18.4 · WRITTEN TEXT
 ───────────────────────────────────────────────────────────────────────
@@ -999,6 +1055,7 @@ A book chapter, licensed under RVX OH-AL 1.0 International.
     (e) You add false claims, remove key passages, or rearrange
         sections so that the chapter now says something different.
         Substantial Modification.
+
 
 ───────────────────────────────────────────────────────────────────────
  § 18.5 · VISUAL ART
@@ -1027,6 +1084,7 @@ A painting, licensed under RVX OH-AL 1.0 International.
         under this License. The composite is yours to license,
         subject to § 4.
 
+
 ───────────────────────────────────────────────────────────────────────
  § 18.6 · CHAIN OF ATTRIBUTION IN PRACTICE
 ───────────────────────────────────────────────────────────────────────
@@ -1035,7 +1093,8 @@ A video repository, licensed under RVX OH-AL 1.0 International,
 and published by AbdulRahman. AbdulRahman creates the file
 CHAIN_OF_ATTRIBUTION.md. It contains one line:
 
-    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim), Ryovx (Me)
+    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim),
+    Ryovx (Me)
 
 The (Me) marker identifies AbdulRahman as the current Publisher and
 maintainer of the file.
@@ -1044,7 +1103,8 @@ Muhammad Hamed republishes the video with a Minor Modification,
 adds subtitles. He updates the file as follows:
 
     Muhammad Hamed Salah (Me)
-    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim), Ryovx
+    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim),
+    Ryovx
 
 The (Me) marker has moved to Muhammad Hamed. AbdulRahman's entry
 remains, without the (Me) marker. Muhammad Hamed now holds
@@ -1056,7 +1116,8 @@ Modification, adding new footage. She updates the file as follows:
 
     Sara Al-Hadidi (Me)
     Muhammad Hamed Salah
-    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim), Ryovx
+    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim),
+    Ryovx
 
 Sara now holds Attribution Status. She is the third link in the
 chain.
@@ -1070,12 +1131,14 @@ directly to AbdulRahman's version, skipping Muhammad Hamed, under
 § 3.5(c). The restored file would be:
 
     Sara Al-Hadidi (Me)
-    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim), Ryovx
+    AbdulRahman Muhammad Rabie Ahmed (a.k.a. Abu Sinnawr Al-Raqim),
+    Ryovx
 
 Sara's restored chain is continuous, because AbdulRahman's version
 remained under this License. Muhammad Hamed's entry is preserved as
 a historical record of what was, but no longer confers Attribution
 Status, because his Version is no longer under this License.
+
 
 ───────────────────────────────────────────────────────────────────────
  § 18.7 · CREATION OF A CHAIN BY A NON-ORIGINAL USER
@@ -1102,6 +1165,12 @@ The Licensor may later join the chain by prepending their own
 entry with (Me), if they so choose. This is permitted, but not
 required.
 
-═══════════════════════════════════════════════════════════════════════
-                            END OF LICENSE
-═══════════════════════════════════════════════════════════════════════
+
+╔═════════════════════════════════════════════════════════════════════╗
+║                                                                     ║
+║                         END OF LICENSE                              ║
+║                                                                     ║
+║          RYOVX OWNERSHIP FOR HUMANITY, AUTHORSHIP FOR LICENSOR      ║
+║                       1.0 INTERNATIONAL                             ║
+║                                                                     ║
+╚═════════════════════════════════════════════════════════════════════╝

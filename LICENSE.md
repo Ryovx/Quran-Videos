@@ -1,27 +1,3 @@
----
-title: Ryovx Ownership for Humanity, Authorship for Licensor 1.0 International
-spdx-id: LicenseRef-RVX-OH-AL-1.0
-description: A license that grants broad permissions while prohibiting false authorship, obstruction, reputational harm, and license misrepresentation, with an optional Chain of Attribution honor system.
-permissions:
-  - commercial-use
-  - modifications
-  - distribution
-  - private-use
-  - patent-use
-conditions:
-  - include-copyright
-limitations:
-  - trademark-use
-  - liability
-  - patent-use
-  - warranty
-featured: false
-hidden: true
-nickname: RVX OH-AL 1.0 International
-note: The Chain of Attribution is optional and confers evidentiary benefits under § 3.6, but is not a condition of use.
-using:
----
-
 ═══════════════════════════════════════════════════════════════════════
         Ryovx Ownership for Humanity, Authorship for Licensor 1.0 International
                       RVX OH-AL 1.0 INTERNATIONAL
